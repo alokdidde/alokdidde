@@ -1,4 +1,4 @@
-👋 Hello, world! I’m @alokdidde — a passionate autodidact with a diverse skill set encompassing UX/UI design, coding, and systems architecture. My journey has been one of constant exploration, leading me from the intricacies of Blockchain and AI to the cutting-edge realms of robotics and deep learning.
+👋 Hello, world! I’m @alokdidde — a passionate autodidact with a diverse skill set encompassing UX/UI design, programming, and systems architecture. My journey has been one of constant exploration, leading me from the intricacies of Blockchain and AI to the cutting-edge realms of robotics and deep learning.
 
 🤖 My current adventure involves diving deep into the dynamic field of robotics, where I blend innovative design with advanced machine learning techniques to create intelligent systems that push the boundaries of what's possible.
 
