@@ -1,16 +1,18 @@
-👋 Hello, world! I’m @alokdidde — a passionate autodidact with a diverse skill set encompassing UX/UI design, programming, and systems architecture. My journey has been one of constant exploration, leading me from the intricacies of Blockchain and AI to the cutting-edge realms of robotics and deep learning.
+👋 Hey. I'm Alok.
 
-🤖 My current adventure involves diving deep into the dynamic field of robotics, where I blend innovative design with advanced machine learning techniques to create intelligent systems that push the boundaries of what's possible.
+I'm a robotics engineer. Growing up, Dexter's Laboratory and Jimmy Neutron were my world. Then I watched the Amazing Spider-Man animated series and the way they talked about DNA, machines, things like Black Widow.. something clicked. I knew I wanted to build things that move, think, interact with the real world.
 
-🧠 Always hungry for knowledge, I’m currently honing my expertise in deep learning, exploring its vast potential to revolutionize how machines understand and interact with the world around us.
+Life had other plans for a while. I spent 14 years as a software engineer, building healthcare platforms, distributed systems, the whole stack. I was good at it. But it was never the thing, you know? Then robotics started catching up to where I always imagined it could be, and I thought.. okay, it's time. Went back, did an MSc in Robotics, and I haven't looked back.
 
-🚀 I'm fascinated by the power of technology to solve complex problems and am always eager to connect with fellow tech enthusiasts and innovators. Whether you're interested in the bleeding edge of AI research or the practical challenges of systems design, I'm here for the intriguing conversations.
+Right now I'm working on two things that keep me up at night:
 
-📫 Ready to collaborate or simply share insights? Reach out at alok.didde@gmail.com. Let's create the future together!
+🤖 An open source robotics framework. Because the tooling in robotics is still rough and I think we can do better.
 
+🦾 An open source robot. Not a toy, not a demo. Something real that people can actually build on.
 
+I've also been deep in agricultural robotics (spatial mapping, computer vision, robotic manipulation), built DexRAG (a retrieval system that uses Monte Carlo exploration instead of vector search), and I still do LLM engineering part time because the bills don't pay themselves.
 
-<!---
-alokdidde/alokdidde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm not the smartest person in any room I walk into. But I'm stubborn enough to keep showing up, and I think that counts for something.
+
+🌐 More about me and my work at [alokdidde.com](https://alokdidde.com)
+📫 alok.didde@gmail.com
