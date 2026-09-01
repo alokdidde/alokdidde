@@ -6,15 +6,15 @@ I build systems at the edges: where software meets hardware, models meet messy d
 
 ## Selected work
 
+### [HefaOS: open robotics infrastructure](https://github.com/alokdidde/HefaOS)
+
+A practical stack for moving from an idea to working hardware without rebuilding the same infrastructure every time. HefaOS combines a real-time C++ runtime with a TypeScript SDK for defining robots, behaviours, and tasks. The aim is software, firmware, and hardware interfaces that are understandable enough to change and solid enough to build on.
+
 ### [Fulmetry](https://fulmetry.com/)
 
 Describe the circuit board you need. A coding agent writes the TypeScript, chooses parts, places and routes the PCB, runs checks and simulations, and prepares the manufacturing files. You review the result and steer the next change.
 
 [Source](https://github.com/Fulmetry/fulmetry) · [Documentation](https://docs.page/Fulmetry/fulmetry)
-
-### Open robotics infrastructure
-
-A practical stack for moving from an idea to working hardware without rebuilding the same infrastructure every time. The aim is composable software, firmware, and hardware interfaces that are understandable enough to change and solid enough to build on.
 
 ### Retrieval beyond embeddings
 
