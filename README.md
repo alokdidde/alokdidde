@@ -1,18 +1,43 @@
-👋 Hey. I'm Alok.
+# Alok Didde
 
-I'm a robotics engineer. Growing up, Dexter's Laboratory and Jimmy Neutron were my world. Then I watched the Amazing Spider-Man animated series and the way they talked about DNA, machines, things like Black Widow.. something clicked. I knew I wanted to build things that move, think, interact with the real world.
+**Robots, intelligent systems, and the infrastructure between them.**
 
-Life had other plans for a while. I spent 14 years as a software engineer, building healthcare platforms, distributed systems, the whole stack. I was good at it. But it was never the thing, you know? Then robotics started catching up to where I always imagined it could be, and I thought.. okay, it's time. Went back, did an MSc in Robotics, and I haven't looked back.
+I build systems at the edges: where software meets hardware, models meet messy data, and prototypes meet actual use. My work spans open robotics, physical AI, retrieval, agent-native electronics, healthcare, and distributed systems.
 
-Right now I'm working on two things that keep me up at night:
+## Selected work
 
-🤖 An open source robotics framework. Because the tooling in robotics is still rough and I think we can do better.
+### [Fulmetry](https://fulmetry.com/)
 
-🦾 An open source robot. Not a toy, not a demo. Something real that people can actually build on.
+Describe the circuit board you need. A coding agent writes the TypeScript, chooses parts, places and routes the PCB, runs checks and simulations, and prepares the manufacturing files. You review the result and steer the next change.
 
-I've also been deep in agricultural robotics (spatial mapping, computer vision, robotic manipulation), built DexRAG (a retrieval system that uses Monte Carlo exploration instead of vector search), and I still do LLM engineering part time because the bills don't pay themselves.
+[Source](https://github.com/Fulmetry/fulmetry) · [Documentation](https://docs.page/Fulmetry/fulmetry)
 
-I'm not the smartest person in any room I walk into. But I'm stubborn enough to keep showing up, and I think that counts for something.
+### Open robotics infrastructure
 
-🌐 More about me and my work at [alokdidde.com](https://alokdidde.com)
-📫 alok.didde@gmail.com
+A practical stack for moving from an idea to working hardware without rebuilding the same infrastructure every time. The aim is composable software, firmware, and hardware interfaces that are understandable enough to change and solid enough to build on.
+
+### Retrieval beyond embeddings
+
+An experimental retrieval approach that uses Monte Carlo exploration to search a corpus instead of depending entirely on vector similarity. The interesting part is not merely ranking documents better. It is giving retrieval a strategy, memory, and somewhere to go when its first guess is wrong.
+
+### A field robot that sees, navigates, and acts
+
+An autonomous agricultural platform combining spatial reconstruction, visual pest detection, navigation, and robotic-arm control. Gaussian Splatting informed the map, CNNs handled detection, and forward and inverse kinematics drove manipulation.
+
+## Smaller things shipped
+
+- [Ganglia](https://github.com/alokdidde/ganglia), adaptive memory for AI agents using BM25, embeddings, recency, feedback, and an L1/L2/L3 hierarchy.
+- [Saarathi](https://github.com/alokdidde/Saarathi), WhatsApp-native business intelligence for Indian micro-businesses.
+- Healthcare systems covering remote patient monitoring, clinical workflows, real-time communication, claims, and AI-assisted documents.
+
+## Working questions
+
+- How much of robotics infrastructure can become usefully boring: predictable, inspectable, and reusable?
+- What changes when retrieval explores instead of only ranking?
+- What makes open hardware genuinely extensible, rather than merely downloadable?
+
+## Elsewhere
+
+[Website](https://alokdidde.com/) · [Writing](https://alokdidde.com/blog/) · [LinkedIn](https://www.linkedin.com/in/alok-didde-85335726)
+
+[alok.didde@gmail.com](mailto:alok.didde@gmail.com)
